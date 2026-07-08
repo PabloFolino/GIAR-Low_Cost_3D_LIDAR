@@ -13,7 +13,7 @@ Desarrollado por el **Grupo de Inteligencia Artificial y Robótica (GIAR)**
 ---
 
 <p align="center">
-<img src="images/lidar_render.png" width="700">
+<img src="./images/lidar_render.png" width="700">
 </p>
 
 ---
