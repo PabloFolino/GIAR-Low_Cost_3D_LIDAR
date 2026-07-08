@@ -1,0 +1,10 @@
+{
+    "idf.pythonInstallPath": "/usr/bin/python3",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
