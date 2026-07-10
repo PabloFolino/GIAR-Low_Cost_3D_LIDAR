@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69118616c0abfea9",
+        "id": "99c45007bd3fae94",
         "type": "tabs",
         "children": [
           {
-            "id": "729cce2b9e15b7b9",
+            "id": "535296dcb48f2e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "99c45007bd3fae94",
+        "id": "83d13aabf7dbff50",
         "type": "tabs",
         "children": [
           {
-            "id": "535296dcb48f2e13",
+            "id": "46ec585fb95c976a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a84c26bb0852de9f",
@@ -208,10 +208,12 @@
   },
   "active": "535296dcb48f2e13",
   "lastOpenFiles": [
+    "Figures/Hardware_general.md",
+    "GIAR_Low_Cost_3D_LIDAR_Engineering_Manual.md",
+    "Figures/Hardware_general.png",
     "2026-07-09.md",
     "Bienvenido.md",
     "Sin título.canvas",
-    "GIAR_Low_Cost_3D_LIDAR_Engineering_Manual.md",
     "Figures/Portada_ver2.png",
     "Figures/Portada.png",
     "Pasted image 20260709190327.png",
